@@ -1,3 +1,3 @@
 # Vanilla JS - Redux
 
-✍️Learning Vanilla-Redux : To Do List
+✍️ Learning Vanilla-Redux : To Do List
